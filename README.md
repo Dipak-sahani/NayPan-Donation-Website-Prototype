@@ -64,6 +64,7 @@ Users can:
 - View transactions linked to their referral codes.
 - See detailed transaction data in a user-friendly tabular format.
 - View the total amount donated.
+![transaction](./transactionPage.png)
 
 ### 4. Feedback System
 - Users can submit feedback to improve the platform.
@@ -79,14 +80,18 @@ Users can:
 
 ### 7.Dashboard 
 -user can see the dashboard
+![Dashboard](./dashboard.png)
 
 ### 8.Donate
 -there are demostrate the donate systeam 
 -if you fill the form then it save the form in the database 
+![Donate](./donatepage.png)
+
 ## 9. Referral System
 -user can referral the code as well the link 
 
-
+## Common page when user cant't login 
+![Donate](./commonpage.png)
 
 ## Getting Started
 ### Prerequisites
